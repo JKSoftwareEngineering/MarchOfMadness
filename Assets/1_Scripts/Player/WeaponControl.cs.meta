@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d9df976c2b1e55c49bf0dfcf78193be6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MuzzelFlash: {instanceID: 0}
+  - bloodHit: {instanceID: 0}
+  - GunShotSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
